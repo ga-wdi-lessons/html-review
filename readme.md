@@ -82,6 +82,7 @@ This HTML is all stylistic -- that is, it has no semantic value.
 color=""
 border=""
 bgcolor=""
+align=""
 width=""
 height=""
 ```
