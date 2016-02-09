@@ -35,6 +35,7 @@
 - Elements have to nest.
   ```html
   Wrong: <tagOne><tagTwo></tagOne></tagTwo>
+  
   Right: <tagOne><tagTwo></tagTwo></tagOne>
   ```
 - Every open tag needs an end tag, except for `<img />` and `<link />` (and a few others).
