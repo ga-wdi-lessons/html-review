@@ -39,7 +39,7 @@ These are called "Robin's Rules" rather than just "Rules" because there really i
   - That is: It should follow the standards established by the W3, or the World Wide Web Consortium.
   - Simply copy and paste your page's *complete* HTML into that form and it'll list all the errors for you.
     - **Note:** Fixing one error may actually fix multiple!
-
+- The **bare minimum** HTML you need on any webpage is:
   ```html
   <!DOCTYPE html>
   <html>
